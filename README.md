@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VincentBanuelos
-- 👀 I’m interested in Data Science, anime, memes
+- 👀 I’m interested in Data Science, anime, memes, and food in particular Pho
 - 🌱 I’m currently learning Data Science at CODEUP
 - 📫 Twitter 🐦: https://twitter.com/VBANUELOS21
 - 📥 Linkedin: www.linkedin.com/in/vincent-banuelos

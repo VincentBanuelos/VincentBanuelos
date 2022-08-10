@@ -1,4 +1,4 @@
-![ghibli-food](https://user-images.githubusercontent.com/107886535/183948082-fa6c07cc-5a1f-4a4e-bb01-10a9b931c4ab.gif)
+![Vincent Banuelos (1)](https://user-images.githubusercontent.com/107886535/183956996-bb5be67a-d0ff-4036-a1d8-4dba10300429.gif)
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/vincent-banuelos/" target="_blank">

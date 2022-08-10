@@ -10,7 +10,7 @@
  
 ## *About Me*
 Hi, I’m @VincentBanuelos
-- I’m interested in Data Science, anime, memes, basketball and food, in particular Pho
+- I’m interested in Data Science, anime, memes, basketball and food
 - I’m currently learning Data Science at CODEUP
 
 ## 🔔 My latest GitHub Metrics

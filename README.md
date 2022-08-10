@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @VincentBanuelos
-- 👀 I’m interested in Data Science, anime, memes, basketball and food, in particular Pho
-- 🌱 I’m currently learning Data Science at CODEUP
-- 📫 Twitter 🐦: https://twitter.com/VBANUELOS21
-- 📥 Linkedin: www.linkedin.com/in/vincent-banuelos
-- <img width="250" alt="Screen Shot 2022-06-30 at 2 59 17 PM" src="https://user-images.githubusercontent.com/107886535/176767539-baed2c20-b6b4-4812-acbc-f0f46410a863.png">
+![ghibli-food](https://user-images.githubusercontent.com/107886535/183948082-fa6c07cc-5a1f-4a4e-bb01-10a9b931c4ab.gif)
 
-<!---
-VincentBanuelos/VincentBanuelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> Connect with me on 👇</h2>
+<a href="https://www.linkedin.com/in/vincent-banuelos/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+<a href="https://twitter.com/VBANUELOS21" target="_blank">
+<img src="https://img.shields.io/badge/Twitter--blue" />
+</a>
+ 
+## *About Me*
+Hi, I’m @VincentBanuelos
+- I’m interested in Data Science, anime, memes, basketball and food, in particular Pho
+- I’m currently learning Data Science at CODEUP
+
+## 🔔 My latest GitHub Metrics
+![Metrics](https://metrics.lecoq.io/VincentBanuelos?template=classic&base.repositories=0&isocalendar=1&activity=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FChicago) 

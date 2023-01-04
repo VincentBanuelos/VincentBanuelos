@@ -7,8 +7,3 @@
 <a href="https://twitter.com/VBANUELOS21" target="_blank">
 <img src="https://img.shields.io/badge/Twitter--blue" />
 </a>
- 
-## *About Me*
-Hi, I’m @VincentBanuelos
-- I’m interested in Data Science, anime, memes, basketball and food
-- I’m currently learning Data Science at CODEUP
